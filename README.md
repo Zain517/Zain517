@@ -1,11 +1,24 @@
 ![Cover pic](/cover.png)
 
 
-### Hi there 👋
+## **Hi** **there** 👋
 <br>
 
 My name is **Zain**-Ul-Abideen. I'm a University final year student, enrolled in Bachelor in Software Engineering. I'm always willing to do productive task as a role 
-Backend-developer. The languages I'm working in **JAVA, SpringBoot, .NET/MVC, Python, NodeJS**.
+Backend-developer. 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 . Other Than JS, I'm also working in **JAVA, SpringBoot, .NET/MVC, Python**.
+
+<br>
+
+### My Tech Stack
+<br>
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 <br>
 
@@ -30,7 +43,8 @@ Backend-developer. The languages I'm working in **JAVA, SpringBoot, .NET/MVC, Py
 
 Here are some ideas to get you started:
 
-
+![HTML5](https://img.shields.io/badge/-Bootstrap-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![java](https://img.shields.io/badge/-Java-%231572B6?style=flat-square&logo=java)
 
 ![image title](https://rushter.com/counter.svg)
 
