@@ -4,8 +4,7 @@
 ## **Hi** **there** 👋
 <br>
 
-My name is **Zain**-Ul-Abideen. I'm a University final year student, enrolled in Bachelor in Software Engineering. I'm always willing to do productive task as a role 
-Backend-developer. 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 . Other Than JS, I'm also working in **JAVA, SpringBoot, .NET/MVC, Python**.
+My name is **Zain**-Ul-Abideen. I'm a University student currently in final year , enrolled in Bachelor in Software Engineering. I'm always willing to do productive task as a role Backend-developer. 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 . Other Than JS, I'm also working in **JAVA, SpringBoot, .NET/MVC, Python**.
 
 <br>
 
