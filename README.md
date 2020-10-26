@@ -4,28 +4,30 @@
 ### Hi there 👋
 <br>
 
-My name is **Zain**-Ul-Abideen. 
+My name is **Zain**-Ul-Abideen. I'm a University final year student, enrolled in Bachelor in Software Engineering. I'm always willing to do productive task as a role 
+Backend-developer. The languages I'm working in **JAVA, SpringBoot, .NET/MVC, Python, NodeJS**.
 
+<br>
 
-
-
-<!--
-**Zain517/Zain517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Final Year Project (_**Document Flow CMS**_)
+- 🌱 I’m currently learning MERN Stack
+- 👯 I’m looking to collaborate on new Ideas in Development
+- 🤔 I’m looking for help with my Skills
+- 💬 Ask me about anything zainulabideen4744@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/zain4744/
+- 😄 Pronouns: Zain Ul Abideen
 
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=zain517&show_icons=true&hide_border=true)
 ![Views](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+<!--
+**Zain517/Zain517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 ![image title](https://rushter.com/counter.svg)
