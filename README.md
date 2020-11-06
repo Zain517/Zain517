@@ -40,8 +40,6 @@ My name is **Zain**-Ul-Abideen. I'm a University student currently in final year
 **Zain517/Zain517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-
-
 Here are some ideas to get you started:
 
 ![HTML5](https://img.shields.io/badge/-Bootstrap-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
